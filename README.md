@@ -10,6 +10,7 @@ collection of artwork, related to macaroons.io
 
 ## macaroons logo (flat design)
 
-![macaroons-flat-logo.png](https://raw.githubusercontent.com/macaroons-io/artwork/master/macaroons-flat-logo.png)
+![macaroons-flat-logo.png](https://raw.githubusercontent.com/macaroons-io/artwork/master/macaroons-flat-logo-small.png)
 
+* [Large version (PNG)](https://raw.githubusercontent.com/macaroons-io/artwork/master/macaroons-flat-logo.png)
 * [SVG](https://github.com/macaroons-io/artwork/blob/master/macaroons-flat-logo.svg)
